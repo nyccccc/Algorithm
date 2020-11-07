@@ -10,6 +10,9 @@ import org.junit.jupiter.api.Test;
 
 
 public class HeapSortByNyc {
+    /**
+     *  创建全局变量，申明数组的长度
+     */
     static  int len;
     public int[] heapSort(int[] nums){
         len = nums.length;
