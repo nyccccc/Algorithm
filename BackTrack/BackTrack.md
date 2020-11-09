@@ -1,1 +1,3 @@
-本部分主要是解决回溯算法
+This part is main solving the problems about back track
+
+The first part is N queens problem.

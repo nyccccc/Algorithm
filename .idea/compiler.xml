@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Sort" />
+        <module name="DynamicProgramming" />
+        <module name="GreedyAlgorithm" />
         <module name="BackTrack" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Algorithm" target="1.5" />
       <module name="BackTrack" target="1.5" />
+      <module name="DynamicProgramming" target="1.5" />
+      <module name="GreedyAlgorithm" target="1.5" />
       <module name="Sort" target="6" />
     </bytecodeTargetLevel>
   </component>

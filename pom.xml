@@ -11,6 +11,8 @@
     <modules>
         <module>Sort</module>
         <module>BackTrack</module>
+        <module>GreedyAlgorithm</module>
+        <module>DynamicProgramming</module>
     </modules>
 
 

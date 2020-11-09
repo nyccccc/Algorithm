@@ -1,0 +1,1 @@
+This part is main talk about the dynamic programming
