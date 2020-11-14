@@ -15,7 +15,7 @@
     <bytecodeTargetLevel>
       <module name="Algorithm" target="1.5" />
       <module name="BackTrack" target="1.5" />
-      <module name="DynamicProgramming" target="1.5" />
+      <module name="DynamicProgramming" target="8" />
       <module name="GreedyAlgorithm" target="1.5" />
       <module name="Sort" target="6" />
     </bytecodeTargetLevel>
