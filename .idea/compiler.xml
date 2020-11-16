@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DataStructure" />
         <module name="Sort" />
         <module name="DynamicProgramming" />
         <module name="GreedyAlgorithm" />
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="Algorithm" target="1.5" />
       <module name="BackTrack" target="1.5" />
+      <module name="DataStructure" target="6" />
       <module name="DynamicProgramming" target="8" />
       <module name="GreedyAlgorithm" target="1.5" />
       <module name="Sort" target="6" />

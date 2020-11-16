@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTrack/BackTrack.iml" filepath="$PROJECT_DIR$/BackTrack/BackTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreedyAlgorithm/GreedyAlgorithm.iml" filepath="$PROJECT_DIR$/GreedyAlgorithm/GreedyAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />

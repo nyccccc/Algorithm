@@ -13,6 +13,7 @@
         <module>BackTrack</module>
         <module>GreedyAlgorithm</module>
         <module>DynamicProgramming</module>
+        <module>DataStructure</module>
     </modules>
 
 
